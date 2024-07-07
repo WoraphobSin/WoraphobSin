@@ -1,9 +1,9 @@
 ﻿### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I share my experience from study in Univerity :rofl:
+This is the place where I share my experience from study in University :rofl:
 
 - 🔭 &nbsp;I’m a new graduated from Silpakorn University 
 - 🌱 &nbsp;I’m currently learning React and API
-- 💬 &nbsp;Role interested Software Engineer, Software Development(especially Back-End)
+- 💬 &nbsp;Role interested Software Engineer, Software Development (especially Back-End)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
