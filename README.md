@@ -3,7 +3,7 @@ This is the place where I share my experience from study in University :rofl:
 
 - 🔭 &nbsp;I’m a new graduated from Silpakorn University. 
 - 🌱 &nbsp;I’m currently learning React and API.
-- 💬 &nbsp;Role interested Software Engineer, Software Development (especially Back-End) and Dev.
+- 💬 &nbsp;Role interested Software Engineer, Software Developer (especially Back-End) and Dev.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -11,5 +11,5 @@ This is the place where I share my experience from study in University :rofl:
 
 ### ✨&nbsp; About Me
 
-Hello everyone my name is Woraphob Sinbunyama. I'm a new graduate from Silpakorn University, Faculty of Engineering, Major in Electronics and Computer Systems. The role I'm interested in are Software engineer, Software development (especially Back-End) and Dev. I hope your company will provide me with more opportunities and new experiences for my future career. You can see more information about me in the resume (in Certificated repository) and my project experiences here.
+Hello everyone my name is Woraphob Sinbunyama. I'm a new graduate from Silpakorn University, Faculty of Engineering, Major in Electronics and Computer Systems. The role I'm interested in are Software engineer, Software developer (especially Back-End) and Dev. I hope your company will provide me with more opportunities and new experiences for my future career. You can see more information about me in the resume (in Certificated repository) and my project experiences here.
 
