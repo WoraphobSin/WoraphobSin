@@ -2,7 +2,7 @@
 This is the place where I share my experience from study in University :rofl:
 
 - 🔭 &nbsp;I’m a new graduated from Silpakorn University. 
-- 🌱 &nbsp;I’m currently learning React and API.
+- 🌱 &nbsp;I’m currently learning Go.
 - 💬 &nbsp;Role interested Software Engineer, Software Developer (especially Back-End) and Dev.
 
 🔗 &nbsp;**Connect with me**
