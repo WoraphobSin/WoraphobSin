@@ -1,9 +1,9 @@
 ﻿### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I share my experience from study in University :rofl:
 
-- 🔭 &nbsp;I’m a new graduated from Silpakorn University 
-- 🌱 &nbsp;I’m currently learning React and API
-- 💬 &nbsp;Role interested Software Engineer, Software Development (especially Back-End)
+- 🔭 &nbsp;I’m a new graduated from Silpakorn University. 
+- 🌱 &nbsp;I’m currently learning React and API.
+- 💬 &nbsp;Role interested Software Engineer, Software Development (especially Back-End) and Dev.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -11,5 +11,5 @@ This is the place where I share my experience from study in University :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Nobody XD
+Hello everyone my name is Woraphob Sinbunyama. I'm a new graduate from Silpakorn University, Faculty of Engineering, Major in Electronics and Computer Systems. The role I'm interested in are Software engineer, Software development (especially Back-End) and Dev. I hope your company will provide me with more opportunities and new experiences for my future career. You can see more information about me in the resume and my project experiences here.
 
