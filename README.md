@@ -2,7 +2,7 @@
 This is the place where I share my experience from study in University :rofl:
 
 - 🔭 &nbsp;I’m a new graduate from Silpakorn University. 
-- 🌱 &nbsp;I’m currently learning Django.
+- 🌱 &nbsp;I’m currently learning Docker.
 - 💬 &nbsp;Roles interested Software Engineer, Software Developer.
 
 🔗 &nbsp;**Connect with me**
