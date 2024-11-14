@@ -11,5 +11,4 @@ This is the place where I share my experience from study in University :rofl:
 
 ### ✨&nbsp; About Me
 
-Hello everyone my name is Woraphob Sinbunyama. I'm a new graduate from Silpakorn University, Faculty of Engineering, Major in Electronics and Computer Systems. The role I'm interested in are Software engineer, Software developer. You can see more information about me in the resume (in Certificated repository) and my project experiences here.
-
+Hello everyone my name is Woraphob Sinbunyama. I'm a new graduate from Silpakorn University, Faculty of Engineering, Major in Electronics and Computer Systems. eager to transition into IT software development. Equipped with strong analytical skills, a solid foundation in problem-solving, and a keen interest in software development. Experienced in Python and committed to expanding my programming knowledge to excel in software development. Seeking an entry-level role in IT software to apply my technical skills, grow professionally, and contribute effectively to dynamic development projects.
